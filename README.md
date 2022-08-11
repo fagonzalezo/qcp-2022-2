@@ -1,2 +1,2 @@
 # qcp-2022-2
-Quantum computer programming 2022-2 course's web page 
+Quantum Computer Programming course website 2022-2 https://fagonzalezo.github.io/qcp-2022-2/ 
