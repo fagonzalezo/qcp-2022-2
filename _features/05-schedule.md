@@ -97,7 +97,11 @@ image:
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Computational complexity (<a href= "QCP-2020-2_Computational_Complexity.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1twylkFaK_ZfUZcAfg_Owq2mlziUEfDkQ/view">video</a>)<br>
+				Computational complexity (<a href= "QCP-2020-2_Computational_Complexity.pdf">slides</a>)<br>
+				Part 1: analysis of computational problems, how to quantify computational resources, computational complexity
+				(<a href= "https://drive.google.com/file/d/1PjNFlDGXWZe5vDismQ2rr7TVBoX1L9oV">video</a>)<br>
+				Part 2: decision problems, P and NP, Hamiltonian and Euler cycle, problem reduction, NP-complete, complexity classes
+				(<a href= "https://drive.google.com/file/d/18_C604hXjeGJ5XIIre_HLpXKySZK0STQ">video</a>)<br>
 				<b>Reading material</b>: <br>
 				[Nielsen10] 3.2 The analysis of computational problems<br>
 			</td>
