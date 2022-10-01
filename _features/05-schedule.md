@@ -156,6 +156,7 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/superdense-coding.html">3.11 Superdense Coding</a><br>
 			</td>
 			<td>
+			<a href="exercises6.pdf">Exercise set 6</a><br>
 			</td>
 		</tr>
 		<tr>
