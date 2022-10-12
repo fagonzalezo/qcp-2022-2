@@ -160,7 +160,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 11</td>
+			<td>Oct 11-18</td>
 			<td>
 				2.3 Deutsch-Joza algorithm<br>
 				2.4 Simon's algorithm
@@ -177,7 +177,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 18</td>
+			<td>Oct 25</td>
 			<td>
 			2.5 Quantum Fourier Transform <br>
 			2.6 Quantum Phase Estimation <br>
@@ -196,7 +196,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 25</td>
+			<td>Nov 1</td>
 			<td>
 				2.9 Quantum algorithms for applications
 			</td>
@@ -211,7 +211,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 1</td>
+			<td>Nov 8</td>
 			<td>
 				3.1 Machine learning review<br>
 				3.2 Quantum measurement classification
@@ -222,7 +222,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 8</td>
+			<td>Nov 15</td>
 			<td>
 				3.3 Quantum machine learning algorithms
 			</td>
