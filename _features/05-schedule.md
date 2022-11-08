@@ -196,7 +196,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 1</td>
+			<td>Nov 1-8</td>
 			<td>
 				2.9 Quantum algorithms for applications
 			</td>
@@ -211,7 +211,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 8</td>
+			<td>Nov 15</td>
 			<td>
 				3.1 Machine learning review<br>
 				3.2 Quantum measurement classification
@@ -222,7 +222,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 15</td>
+			<td>Nov 22</td>
 			<td>
 				3.3 Quantum machine learning algorithms
 			</td>
