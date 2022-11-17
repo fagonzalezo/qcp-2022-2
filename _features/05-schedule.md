@@ -213,10 +213,15 @@ image:
 		<tr>
 			<td>Nov 15</td>
 			<td>
-				3.1 Machine learning review<br>
-				3.2 Quantum measurement classification
+				3.1 Quantum machine learning algorithms<br>
+				3.2 Quantum variational learning
 			</td>
 			<td>
+				Quantum machine learning (<a href= "intro QML QCP.pdf">slides</a>)(video)<br>
+				Quantum variational learning (<a href= "https://colab.research.google.com/drive/1NjRTqRbelnK4WGC6PK0d0Z3PTk_-wfTx">notebook</a>)(video)<br>
+				<b>Reading material</b>: <br>
+				 <a href= "https://pennylane.ai/qml/demos_getting-started.html">Pennylane introduction</a><br>
+				 Crooks, G. E. (2019). Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition. arXiv preprint <a href= "https://arxiv.org/abs/1905.13311">arXiv:1905.13311</a>.
 			</td>
 			<td>
 			</td>

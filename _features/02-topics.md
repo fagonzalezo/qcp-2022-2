@@ -44,9 +44,9 @@ image:
 				
 3 **Quantum machine learning**
 
-3.1 Machine learning review
+3.1 Quantum machine learning algorithms
 
-3.2 Quantum measurement classification
+3.2 Quantum variational learning
 
-3.3 Quantum machine learning algorithms
+3.3 Quantum measurement classification
 
