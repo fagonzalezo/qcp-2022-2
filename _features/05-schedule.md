@@ -217,8 +217,8 @@ image:
 				3.2 Quantum variational learning
 			</td>
 			<td>
-				Quantum machine learning (<a href= "intro QML QCP.pdf">slides</a>)(video)<br>
-				Quantum variational learning (<a href= "https://colab.research.google.com/drive/1NjRTqRbelnK4WGC6PK0d0Z3PTk_-wfTx">notebook</a>)(video)<br>
+				Quantum machine learning (<a href= "intro QML QCP.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1h9G8AZqQZGbutf6vEQKX6TWQ9YINE8iJ/view?usp=sharing">video</a>)<br>
+				Quantum variational learning (<a href= "https://colab.research.google.com/drive/1NjRTqRbelnK4WGC6PK0d0Z3PTk_-wfTx">notebook</a>)(<a href= "https://drive.google.com/file/d/1e4bLRxaq3VOSi_ivEHwMgRIRkCp3rCdO/view?usp=sharing">video</a>)<br>
 				<b>Reading material</b>: <br>
 				 <a href= "https://pennylane.ai/qml/demos_getting-started.html">Pennylane introduction</a><br>
 				 Crooks, G. E. (2019). Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition. arXiv preprint <a href= "https://arxiv.org/abs/1905.13311">arXiv:1905.13311</a>.
